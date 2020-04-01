@@ -8,7 +8,7 @@ public enum Trees {
 
     //TODO MAKE A BANK AREA ENUM AND CALL HERE
     REGULAR("Tree", "Logs",1, Area.rectangular(3177, 3237, 3197, 3207), Area.rectangular(3211, 3213, 3205, 3223,2)),
-    OAK("OAK", "Oak logs",15, Area.rectangular(3034, 3275, 3067, 326),Area.rectangular(3034, 3275, 3067, 3260));
+    OAK("OAK", "Oak logs",15, Area.rectangular(3034, 3275, 3067, 326), Area.rectangular(3034, 3275, 3067, 3260));
 
 
     private final String name, logName;
